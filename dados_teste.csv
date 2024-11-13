@@ -1,0 +1,11 @@
+Cliente,Tipo_Cliente,Status_Conta,Lucro,Perda,Data
+João,Novo,Ativa,1200,0,2024-01-15
+Maria,Existente,Inativa,0,500,2024-02-20
+Pedro,Novo,Ativa,1500,0,2024-03-10
+Ana,Existente,Ativa,200,0,2024-04-01
+Lucas,Novo,Ativa,800,100,2024-05-22
+Carla,Existente,Ativa,500,0,2024-06-18
+Felipe,Novo,Inativa,0,300,2024-07-30
+Julia,Existente,Ativa,1000,0,2024-08-05
+Carlos,Novo,Ativa,700,0,2024-09-10
+Laura,Existente,Inativa,0,600,2024-10-21
